@@ -1,0 +1,55 @@
+commit 464e020726549b5a96643fe9eae55679a48c1d80
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Tue Apr 9 14:16:40 2024 -0400
+
+    Finish final implementations
+    
+    - Update code format
+
+commit 06eaf629308563dd11597949f2bae164f57c583f
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Mon Apr 8 21:18:42 2024 -0400
+
+    Finish testing
+    
+    - All relevant functions and features are tested
+
+commit 18d2c1aaaf1c376b6972a464cfa78bd45bfea77e
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Sat Apr 6 00:43:56 2024 -0400
+
+    Fix help message
+    
+    - Finish formatting help message
+
+commit 9d53a013df9d9c03295c19dc63e19d89b48e47c8
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Fri Apr 5 18:22:25 2024 -0400
+
+    Fix main, garden, and plant encapsulation issues
+    
+    - Implement proper data abstraction for garden and plant
+
+commit a1520cbc45a4ba7d4a0077cb1f7dd0ee4a668aad
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Thu Apr 4 22:15:13 2024 -0400
+
+    Implement testing and mli files
+    
+    - Testing is currently commented out due to troubles running
+    - mli for garden and plant implemented, but data abstraction is problematic
+
+commit 2fcfffd42b26cf151afb4d420ac36136bc0a3528
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Thu Apr 4 02:01:12 2024 -0400
+
+    Implement plant, main, and garden
+    
+    - Ensure basic functionality
+    - main.ml, plant.ml, garden.ml can run and compile without problem
+
+commit f395676ce088dc189139fe0da295252ef335615e
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Wed Apr 3 20:08:20 2024 -0400
+
+    Initial commit
